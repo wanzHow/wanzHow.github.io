@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://wanzkean.github.io</id>
+    <title>Gridea</title>
+    <updated>2020-12-07T07:17:01.951Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://wanzkean.github.io"/>
+    <link rel="self" href="http://wanzkean.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://wanzkean.github.io/images/avatar.png</logo>
+    <icon>http://wanzkean.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[「温肯数学图鉴」]]></title>
+        <id>http://wanzkean.github.io/post/wen-ken-shu-xue-tu-jian</id>
+        <link href="http://wanzkean.github.io/post/wen-ken-shu-xue-tu-jian">
+        </link>
+        <updated>2019-06-29T02:35:15.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好，我是目前计算机大二在读学生Vladimir，在大一和大二两个学年里上完计算机专业内的所有数学课程,有一些感悟和心得，希望分享给大家，哪怕对后来人有一点点的帮助也是极好的。本篇内容不限于计算机、数学系的学生，也包括想要辅修数学的同学。</p>
+<p>一、温肯数学课程概况
+温肯的数学课大多数是优先开给数学系和计算机系的学生，其中MATH 2110 离散数学又是计算机学生和准备辅修计算机学生必修的课程，MATH 3710数据分析又是数学系必修的特色课程之一，不言而喻数学对于每个理工人来说的重要意义。与此同时，金融工程，商业分析和统计学等一些研究生申请对某些数学课程存在前置要求，所以商科学生也越来越多地参与到高阶数学课程中来。</p>
+<p>以下是温肯目前开的数学课程：</p>
+<p>MATH 2400 (Calculus for BUS AND ECO 商科高等数学)
+*MATH 2110 (Discrete Structures离散数学）
+*&amp;MATH 2415 (Calculus I 微积分I）
+*&amp;MATH 2416  (Calculus II 微积分II)
+*&amp;MATH 3415  (Calculus III 微积分III)
+*&amp;MATH 2995  （Matrix and Linear Algebra 线性代数）
+*&amp;MATH2526 （Applied Statistics 应用统计学）
+&amp;Math 3544（Probability and Math Statistics 概率与数理统计）
+&amp;MATH 3710 （Foundations of Data Analysis 数据分析基础）
+&amp;MATH 3700（Big Data Computing 大数据）
+MATH 3225 (Computational Methods &amp; Linear Algebra II 计算方法&amp;线性代数 II）
+MATH 3940 ( numerical analysis 数值分析）
+MATH 3815（CRYPTOGRAPHY &amp; CRYPTANALYSIS 密码学
+&amp;MATH 4710（Big Data Visualization 大数据可视化）
+&amp;MATH 4720 （Statistical Data Mining数据挖掘）</p>
+<p>—————*表示计算机学生必修// &amp;表示数学系学生必修 //未标表示选修——————</p>
+<p>#计算机系学生的数学
+计算机学生只要修满六节数学课（20 credits）就能算作辅修数学。 按照正常顺序依次是大一春季MATH 2110离散数学，大二秋季MATH 2415，大三春季MATH 2416，其中MATH 2415，2416，3415 分别是微积分I，II，III也是层层递进的关系（需要按照顺序上，微积分I，II属于计算机和数学学生必修，III计算机学生选修数学学生必修），但是因为楼主大一时是数学系的缘故就优先把很多计算机学生大二甚至大三的课提上来上完，也得以在大二结束之前将数学的必修课和选修课上完（虽然是说选课自由，但是往往section和教授有限，数学课对于数学系的学生理所应当是优先级的考虑。）</p>
+<p>#数学系学生的数学
+数学系学生微积分I，II，III（必修），MATH 2526、MATH 3544 、MATH 3700 、MATH 3710 必修。</p>
+<p>二、温肯可爱的数学教授们！
+【1. Gupta】</p>
+<p>授课难度：🌟🌟🌟</p>
+<p>考试难度：🌟🌟🌟</p>
+<p>给分情况：🌟🌟🌟🌟</p>
+<ol>
+<li>教的内容基本贴合书本，很少会超出范围拓展，但是若是学生予以主动探索Gupta都会提供相应的解答和支持。</li>
+<li>考试难度不算太难，基本是所教授的内容，偶尔会有稍难的题来拉开区分度，不过要是班级大部分人没做出来他大概率会把那题作为Bonus的分数不算入总分。</li>
+<li>给分情况比较理想的原因是Gupta体贴大家的学习刻苦（误）， 若是没人达到A的标准他会后期进行调分，争取给到大家满意并且符合实际情况的成绩。</li>
+</ol>
+<p>特色:</p>
+<ol>
+<li>
+<p>性格逗比有趣，授课的趣味性很高，讲着讲着甩甩笔表演一下杂技，讲点冷笑话，为沉闷课堂平添不少乐趣，同时互动性也很高，经常会抛出问题引起在座同学的思考和讨论。</p>
+</li>
+<li>
+<p>注重学生的逻辑培养，在考试中只要逻辑正确答案错误并不会口太多的分数，对知识的宽容度较高。比如说有时候不会态刻意抠细节。</p>
+</li>
+</ol>
+<p>【2. Kong】</p>
+<p>授课难度：🌟🌟🌟🌟🌟</p>
+<p>考试难度：🌟🌟🌟</p>
+<p>给分情况：🌟🌟🌟🌟</p>
+<p>特色： 孔老师的教授方式大部分的时间还是从基础入手，提供最清晰的授课步骤和课下的自学资料，适合自学能力强的同学，我最喜欢孔老师的一点是他会留出一定的时间带领大家一起做题，把自己规范的格式展示给大家，同时结合题目抛出启发式的思维，对理解知识有很大的帮助。除此之外，孔老师的评分标准也是我最喜欢的，一般是50%的teamwork,20% midterm,30% final（一般是这样的）Groupwork简而言之便是组队刷题（我能说这是个抱大腿的好机会嘛--）当然在groupwork中也可以从队友的解题思路中发现自己的不足，在交流中学习共同进步。</p>
+<p>【3. Dow】</p>
+<p>授课难度：🌟🌟🌟</p>
+<p>考试难度：🌟🌟🌟🌟</p>
+<p>给分情况：🌟🌟</p>
+<p>特色： 授课系统化，知识条理性清晰可见，板书合理布局有条理（是个强迫症患者哈哈哈），适合学民。 然而Dow的课堂互动性几乎为0 并且考试扣分严苛的情况一直被大部分同学诟病。</p>
+<p>我上过Dow两门课程，最大的感悟就是仔细和切不可眼高手低。</p>
+<ol>
+<li>仔细，某种程度上Dow的A含金量很高，一个班通常2-3个A已经算很多了。平时上课需要仔细听讲，因为他上课某一个板书或者口头上列举的例子很大程度上和课程的知识紧密相关，课后需要严格要求自己，把布置的题目仔细做完，吃透知识点，因为考试中时常会有类似的影子出现，最难受的不是考得难考得新奇，而是遇到作业里似曾相识的题而你又做错。</li>
+<li>眼高手低， 上MATH2415时我自认为这些都是高中学过的东西（事实上2415 一开始确实是导数一类的高中学过的知识），预习也没怎么预习，题么也不做的，总觉得自己都会都懂，结果一到考试东错一点西错一点最后拿到手的分数寥寥无几orz。打个比方，学数学就像养孩子，做题就像喂奶，孩子不吃奶你说怎么长得大呢。所以回归到学习数学的核心，一是注意有效接纳知识的来源，即做好预习工作仔细听课，二是配合实践检验知识，课后配合实战习题来检验自己的实际掌握水平。</li>
+</ol>
+<p>不过话说回来跟Dow学习数学，只要自己愿意学用心学，稳扎稳打基础，能够收获满满。</p>
+<p>【4. SS】</p>
+<p>授课难度：🌟🌟🌟🌟</p>
+<p>考试难度：🌟🌟🌟🌟🌟</p>
+<p>给分情况：🌟🌟🌟</p>
+<p>喜爱拓展，适合学神和学霸，学民略累，不做好预习极其容易上课懵逼走神。考试评分比较奇特，只要大概思路写对就能得到大部分分数或者满分，但是即便答案正确但是思路不太对的话可能一分也没得，S大哥还是比较注重逻辑思路而较少强调过程。评分quiz，exam是大部头。超爱互动，总是迷之微笑，人还是很不错的Office time去找都很乐意去回答。</p>
+<p>总结：以上纯属个人经历感受，所提供的难度系数也是凭主观意志给出，没有好不好，也没有对不对，只有适不适合，只有自己亲身领略过才明了，不要一味听信传言哦～</p>
+]]></content>
+    </entry>
+</feed>
