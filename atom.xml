@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://wanzkean.github.io</id>
+    <id>http://wanz.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-07T07:17:01.951Z</updated>
+    <updated>2020-12-28T11:27:21.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://wanzkean.github.io"/>
-    <link rel="self" href="http://wanzkean.github.io/atom.xml"/>
+    <link rel="alternate" href="http://wanz.github.io"/>
+    <link rel="self" href="http://wanz.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://wanzkean.github.io/images/avatar.png</logo>
-    <icon>http://wanzkean.github.io/favicon.ico</icon>
+    <logo>http://wanz.github.io/images/avatar.png</logo>
+    <icon>http://wanz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[2021 前端实习准备]]></title>
+        <id>http://wanz.github.io/post/2021-qian-duan-shi-xi-zhun-bei</id>
+        <link href="http://wanz.github.io/post/2021-qian-duan-shi-xi-zhun-bei">
+        </link>
+        <updated>2020-12-28T11:26:41.000Z</updated>
+        <content type="html"><![CDATA[<p>2020/12/26
+Doc+Book
+• Learn to Code (Lesson 1)---&gt; HTML +CSS ✅   1/12
+•  Datacamp—&gt; Shell Linux ⚠️  2/5
+• MIT ---&gt; Missing CS Semester Lesson1 ⚠️
+刷题
+• Leetcode No.2 ---&gt; Java ❌  （学singlyLinkedList花事件太久了)
+感悟
+• 本科期间的数据结构掌握程度太差导致leetcode时间花的太多
+• 按照 LinkedList ---&gt; Array ----&gt; Tree ----&gt; String ----&gt; Math ---&gt; Stack 的tag顺序来刷, 边刷边总结自己的答题模版. 搞懂最重要.</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「温肯数学图鉴」]]></title>
-        <id>http://wanzkean.github.io/post/wen-ken-shu-xue-tu-jian</id>
-        <link href="http://wanzkean.github.io/post/wen-ken-shu-xue-tu-jian">
+        <id>http://wanz.github.io/post/wen-ken-shu-xue-tu-jian</id>
+        <link href="http://wanz.github.io/post/wen-ken-shu-xue-tu-jian">
         </link>
         <updated>2019-06-29T02:35:15.000Z</updated>
         <content type="html"><![CDATA[<p>大家好，我是目前计算机大二在读学生Vladimir，在大一和大二两个学年里上完计算机专业内的所有数学课程,有一些感悟和心得，希望分享给大家，哪怕对后来人有一点点的帮助也是极好的。本篇内容不限于计算机、数学系的学生，也包括想要辅修数学的同学。</p>
